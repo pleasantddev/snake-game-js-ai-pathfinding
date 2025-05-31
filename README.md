@@ -36,8 +36,7 @@ Welcome to the **Snake AI Game** — a fun, minimalistic snake game with a twist
 ---
 ## Screenshot
 
-https://github.com/pleasantddev/snake-game-js-ai-pathfinding/blob/main/screenshot.png
-
+![Game Screenshot](https://github.com/pleasantddev/snake-game-js-ai-pathfinding/blob/main/screenshot.png?raw=true)
 ---
 
 ## Why This Project?
