@@ -8,7 +8,7 @@ Welcome to the **Snake AI Game** — a fun, minimalistic snake game with a twist
 
 - Classic snake gameplay on a grid with smooth controls
 - Brown obstacles randomly placed to spice things up
-- Red food appears randomly, avoid obstacles and the snake’s body
+- Blue food appears randomly, avoid obstacles and the snake’s body
 - Snake "eyes" show the direction it’s moving
 - Toggle between **Human mode** (you control) and **AI mode** (snake uses pathfinding to chase food)
 - Restart button to play again anytime
