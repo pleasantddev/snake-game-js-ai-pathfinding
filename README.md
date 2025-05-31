@@ -31,7 +31,12 @@ Welcome to the **Snake AI Game** — a fun, minimalistic snake game with a twist
 - `index.html` — The main webpage structure
 - `style.css` — Clean, minimal styling for the game UI
 - `game.js` — Game logic with AI pathfinding, drawing, controls, and game management
-- `screenshot.png` — Preview of the game UI (make sure to add your screenshot here)
+- `screenshot.png` — Preview of the game UI 
+
+---
+## Screenshot
+
+https://github.com/pleasantddev/snake-game-js-ai-pathfinding/blob/main/screenshot.png
 
 ---
 
